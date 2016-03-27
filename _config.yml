@@ -4,8 +4,8 @@ email: alexsdanvers@gmail.com
 description: Thoughts of a bioengineer
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://alexsdanvers.github.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username: alexdanvers 
+twitter_username: savethemartians 
+github_username: alexdanvers
 
 # Build settings
 markdown: kramdown
